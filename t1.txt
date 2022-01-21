@@ -1,2 +1,6 @@
 Guys, This is business
 are u understand or not
+
+Lambda is single line func.....
+guys its higher order function. means map, filter and sort, reduce.
+
