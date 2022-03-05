@@ -7,3 +7,7 @@ guys its higher order function. means map, filter and sort, reduce.
 in mapping, each and every element is iterable.
 
 IN Filter , element are iterable but specific condition
+================================================================
+
+Congretulation mr. Sahil Patil Ghom 
+Thanks for Duke.
